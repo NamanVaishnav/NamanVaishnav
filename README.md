@@ -1,4 +1,13 @@
-Hi 👋 My name is Naman Vaishnav ===============================  Mobile Application Developer ----------------------------  Sharing my everyday life as a frontend developer, Always learning something new  * 🌍  I'm based in Gujarat, India * ✉️  You can contact me at [morgulis36@gmail.com](mailto:morgulis36@gmail.com)
+Hi 👋 My name is Naman Vaishnav
+===============================  
+
+Mobile Application Developer 
+----------------------------  
+
+Sharing my everyday life as a frontend developer, Always learning something new  
+
+* 🌍  I'm based in Gujarat, India 
+* ✉️  You can contact me at [morgulis36@gmail.com](mailto:morgulis36@gmail.com)
 
 ### Skills
 
